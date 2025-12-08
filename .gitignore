@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.log
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.pdb
+*.dll
+*.ilk
+*.idb
+*.obj
+*.lib
+*.sbr
+*.res
+*.pch
+*.ipch
+
+# Packages
+packages/
+*.nupkg
+
+# Resharper
+*.resharper
+
+# Rider
+.idea/
+
+# DotNet tools
+.config/
+.toolstmp/
+
+# Test results
+TestResults/
+*.trx
+
+# Visual Studio Code
+.vscode/
+
+# Other temporary files
+*.~
+*.bak
+*.tmp
