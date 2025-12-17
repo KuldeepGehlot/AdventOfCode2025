@@ -206,6 +206,6 @@ public static class Part2
             }
         }
 
-        Console.WriteLine("Answer: " + zeroCount);
+        Console.WriteLine("Answer of Day1 part 2: " + zeroCount);
     }
 }

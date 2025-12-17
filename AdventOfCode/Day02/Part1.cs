@@ -39,7 +39,7 @@ public static class Part1
         }
 
         // Output the sum of all invalid IDs
-        Console.WriteLine("Sum of invalid range ");
+        Console.WriteLine("Day 02 part 1 Sum of invalid range ");
         Console.WriteLine(invalidNumbers?.Sum());
     }
 
