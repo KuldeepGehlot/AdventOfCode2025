@@ -1,5 +1,5 @@
-﻿using AdventOfCode.Day01;
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-Part1.Solve();
+﻿
+//AdventOfCode.Day01.Part1.Solve();
+//AdventOfCode.Day01.Part2.Solve();
+//AdventOfCode.Day02.Part1.Solve();
+AdventOfCode.Day02.Part2.Solve();
